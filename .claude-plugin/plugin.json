@@ -1,6 +1,6 @@
 {
   "name": "project-manager",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Project manager role: turns an owner's requests into work packages, staffs each role-first, records and holds the owner's standing rules, routes and unblocks agents, and reports status in the owner's terms.",
   "author": {
     "name": "opsroller"

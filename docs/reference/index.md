@@ -35,7 +35,7 @@ Running the work:
 | Field | Value |
 |---|---|
 | `name` | `project-manager` |
-| `version` | `0.2.0` |
+| `version` | `0.3.0` |
 | `description` | one-line summary of the role |
 | `author.name` | `opsroller` |
 | `repository` | `https://github.com/opsroller/project-manager` |
